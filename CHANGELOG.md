@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`d7721ac`](https://github.com/stdlib-js/stdlib/commit/d7721acc432ec419630e74bb49db5ccccc3cd1d5) - **docs:** fix C example code _(by Philipp Burckhardt)_
 -   [`1097586`](https://github.com/stdlib-js/stdlib/commit/10975869f1190573540cd482ff16b23d2e44f7e5) - **feat:** add C implementation for `stats/base/dists/uniform/cdf` [(#3959)](https://github.com/stdlib-js/stdlib/pull/3959) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
 -   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav, Philipp Burckhardt, stdlib-bot)_
 
